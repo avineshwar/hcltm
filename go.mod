@@ -20,9 +20,7 @@ require (
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.9.0 // indirect
 	github.com/ryanuber/columnize v2.1.2+incompatible
-	github.com/yuin/goldmark v1.4.1 // indirect
 	github.com/zclconf/go-cty v1.9.1
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309 // indirect
-	golang.org/x/sys v0.0.0-20211020174200-9d6173849985 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gonum.org/v1/gonum v0.9.3
 )
